@@ -76,7 +76,7 @@ export const chainbridgeConfig: ChainbridgeConfig = {
       ],
     },
     {
-      chainId: 100,
+      chainId: 336,
       networkId: 336,
       name: "Shiden",
       decimals: 18,
